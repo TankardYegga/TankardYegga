@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm trickerlevin.</h2>
+<p align="center">
+  <a href="https://blog.csdn.net/good18Levin?type=blog">CSDN</a> •
+  <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a>
+</p>
 
-<!--
-**trickerlevin/trickerlevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying in **SouthEast University**
+- 🌱 I’m currently learning **GCN**
+- 💬 Ask me about **Python and Transformer**
+- 📫 How to reach me: levinforward@163.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+
+**📝 Skills**
+<!--START:Skills-->
+<code><img height="32" src="https://simpleicons.org/icons/mysql.svg"></code>
+<!--END:Skills-->
+
+-------
