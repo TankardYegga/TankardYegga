@@ -14,7 +14,12 @@
 
 **📝 Skills**
 <!--START:Skills-->
-<code><img height="32" src="https://simpleicons.org/icons/mysql.svg"></code>
+<code><img height="50" src="https://simpleicons.org/icons/mysql.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg"></code>
 <!--END:Skills-->
 
 -------
