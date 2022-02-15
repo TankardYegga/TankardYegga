@@ -25,9 +25,11 @@
 -------
 **📝 Data**
 <!--START:Skills-->
+<code>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" href="https://github-readme-stats.vercel.app/api?username=trickerlevin&show_icons=true&theme=dark" />
+  <img align="center" height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=trickerlevin&show_icons=true&theme=dark"/>
 </a>
+</code>
 <!--END:Skills-->
 -------
 
