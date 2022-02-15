@@ -22,11 +22,12 @@
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg"></code>
 <!--END:Skills-->
 
-
-**Github Statistics**
-<!--START:Statistics-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img aligh="center" href="https://github-readme-stats.vercel.app/api?username=trickerlevin&show_icons=true&theme=dark" />
-</a>
-<!--END:Statistics-->
 -------
+**📝 Data**
+<!--START:Skills-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" href="https://github-readme-stats.vercel.app/api?username=trickerlevin&show_icons=true&theme=dark" />
+</a>
+<!--END:Skills-->
+-------
+
