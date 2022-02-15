@@ -29,6 +29,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=trickerlevin&show_icons=true&theme=dark"/>
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
+  username=trickerlevin&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card width=250" />
+ </a>
 </code>
 <!--END:Skills-->
 -------
