@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Tankard</h2>
+<h2 align="center">👋 Hello! I'm Tankard Yegga</h2>
 <p align="center">
   <a href="https://blog.csdn.net/good18Levin?type=blog">CSDN</a> •
   <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a>
@@ -27,10 +27,10 @@
 <!--START:Skills-->
 <code>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=trickerlevin&show_icons=true&theme=dark"/>
+  <img align="center" height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=TankardYegga&show_icons=true&theme=dark"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickerlevin&langs_count=8&theme=dark&count_private=truelayout=compact&hide=javascript,html,css,CoffeeScript&card_width=250"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankardYegga&langs_count=8&theme=dark&count_private=truelayout=compact&hide=javascript,html,css,CoffeeScript&card_width=250"/>
  </a>
 </code>
 <!--END:Skills-->
