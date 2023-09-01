@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hello! I'm Tankard Yegga</h2>
 <p align="center">
   <a href="https://blog.csdn.net/good18Levin?type=blog">CSDN</a> •
-  <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a>
-  <a href="https://tankardyegga.netlify.app/">个人笔记</a>
+  <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a> •
+  <a href="https://tankardyegga.netlify.app/">个人笔记</a> •
   <a href="">学术主页</a>
 </p>
 
