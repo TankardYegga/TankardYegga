@@ -4,6 +4,7 @@
   <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a> •
   <a href="https://tankardyegga.netlify.app/">个人笔记</a> •
   <a href="">学术主页</a>
+  <a href="https://mp.weixin.qq.com/s/SIQhOiGVvMFxElxXJSRk5w">个人生活公众号</a>
 </p>
 
 
