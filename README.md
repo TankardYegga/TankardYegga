@@ -6,8 +6,8 @@
 
 
 - 🔭 I’m currently studying in **SouthEast University**
-- 🌱 I’m currently learning **GCN**
-- 💬 Ask me about **Python and Transformer**
+- 🌱 I’m currently learning **Machine Learning System， Distributed System，and System Security**
+- 💬 Ask me about **Python, Java and Machine Learning**
 - 📫 How to reach me: levinforward@163.com
 
 -------
