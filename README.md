@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Machine Learning System， Distributed System，and System Security**
 - 💬 Ask me about **Python, Java and Machine Learning**
 - 📫 How to reach me: levinforward@163.com or tankardyegga （WeChatAccount）
-- 💬 My MBTI type is INTP, my understanding of which is in my essay <a href="https://mp.weixin.qq.com/s/MW9iNUDzW68v9d1nxpy6ww">I am a 80 percentage INTP</a>
+- 💬 My MBTI type is INTP, my understanding of which is in my essay <a href="https://mp.weixin.qq.com/s/MW9iNUDzW68v9d1nxpy6ww">I am 80 percentage INTP-T</a>
      - I like reading detective series (include elements like reasoning, crimes, and mysteries) and interesting non-fiction books (about mental models, black humors, brain science and intersring psychology).
     - I write to inspire my logical sparks. 
     - I enjoy running, fast walking and playing badminton.
