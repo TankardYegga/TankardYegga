@@ -9,7 +9,7 @@
 
 
 - 🔭 I graduated from Northwest University, Xi'an and I’m currently studying in **SouthEast University**
-- 🌱 I’m currently learning **Machine Learning System， Distributed System，and System Security**
+- 🌱 I’m strongly interested in **Distributed System，Graph Processing System and System Security**
 - 💬 Ask me about **Python, Java and Machine Learning**
 - 📫 How to reach me: levinforward@163.com or tankardyegga （WeChatAccount）or 2019174793 （QQ）
 - 💬 My MBTI type is INTP, my understanding of which is elaborated in my essay <a href="https://mp.weixin.qq.com/s/MW9iNUDzW68v9d1nxpy6ww">I am 80 percentage INTP-T</a>
@@ -17,7 +17,7 @@
     - I write to inspire my logical sparks. 
     - I enjoy running, fast walking and playing badminton.
     - I like making interesting new friends and having discussion on valuable issues.
-
+    - My Motto：I love learning and sharing, I wouldn’t be able to keep going if I didn’t!
 -------
 
 **📝 Skills**
