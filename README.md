@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://blog.csdn.net/good18Levin?type=blog">CSDN</a> •
   <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a> •
-  <a href="https://tankardyegga.netlify.app/">个人笔记网站</a> •
+  <a href="https://tankardyegga.netlify.app/">学习笔记网站</a> •
   <a href="">学术主页</a>  •
-  <a href="https://mp.weixin.qq.com/s/SIQhOiGVvMFxElxXJSRk5w">个人公众号</a>
+  <a href="https://mp.weixin.qq.com/s/SIQhOiGVvMFxElxXJSRk5w">公众号（个人成长）</a>
 </p>
 
 
