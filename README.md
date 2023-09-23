@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Tankard Yegga （Liuwen Zou or Levin Zou）</h2>
+<h2 align="center">👋 Hello! I'm Tankard Yegga </h2>
 <p align="center">
   <a href="https://blog.csdn.net/good18Levin?type=blog">CSDN</a> •
   <a href="https://www.zhihu.com/people/yang-luo-hao-ka">知乎</a> •
