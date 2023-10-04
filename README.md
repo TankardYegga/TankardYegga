@@ -9,9 +9,10 @@
 
 
 - 🔭 I graduated from Northwest University, Xi'an and I’m currently studying in **SouthEast University**
-- 🌱 I’m strongly interested in **Distributed System，Parallel Computing and Graph Processing System （graph computing，graph algorithms, graph neural network, graph security, and any stuff regarding the graph structure）**
+- 🌱 I’m strongly interested in **Distributed System, and Graph Processing System （graph computing，graph algorithms, graph database graph neural network, graph security, and any stuff regarding the graph structure）**
 - 💬 Ask me about **Python, Java and Machine Learning**
 - 📫 How to reach me: levinforward@163.com or tankardyegga （WeChatAccount）or 2019174793 （QQ）
+- 📫 Note when reaching me: please briefly introduce yourself and intention for connecting with me
 - 💬 My MBTI type is INTP, my understanding of which is elaborated in my essay <a href="https://mp.weixin.qq.com/s/MW9iNUDzW68v9d1nxpy6ww">I am 80 percentage INTP-T</a>
      - I like reading detective series (include elements like reasoning, crimes, and mysteries) and interesting non-fiction books (about mental models, black humors, brain science and interesting psychology).
     - I write to inspire my logical sparks. 
