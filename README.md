@@ -9,7 +9,7 @@
 
 
 - 🔭 I graduated from Northwest University, Xi'an and I’m currently studying in **SouthEast University**
-- 🌱 I’m strongly interested in **Distributed System, and Graph Processing System （graph computing，graph algorithms, graph database graph neural network, graph security, and any stuff regarding the graph structure）**
+- 🌱 I’m strongly interested in **Distributed System, and Graph Processing System （graph computing，graph algorithms, graph database, graph neural network, graph security, and any stuff regarding the graph structure）**
 - 💬 Ask me about **Python, Java and Machine Learning**
 - 📫 How to reach me: levinforward@163.com or tankardyegga （WeChatAccount）or 2019174793 （QQ）
 - 📫 Note when reaching me: please briefly introduce yourself and intention for connecting with me
