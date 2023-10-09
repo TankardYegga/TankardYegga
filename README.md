@@ -19,7 +19,7 @@
     - I enjoy running, fast/brisk walking and playing badminton.
     - I like making interesting new friends and having discussion on valuable issues.
     - My Life Motto：I love learning and sharing, I wouldn’t be able to keep going if I didn’t!
-    - My Science & Technology Motto: 哪怕什么真理无穷，进一存有进一存的欢喜。致知在格物，物格而后知至。
+    - My Science & Technology Motto: 哪怕什么真理无穷，进一寸有进一寸的欢喜。致知在格物，物格而后知至。
 -------
 
 **📝 Skills**
